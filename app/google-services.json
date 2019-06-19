@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066933557434",
+    "firebase_url": "https://pukhumadirectory.firebaseio.com",
+    "project_id": "pukhumadirectory",
+    "storage_bucket": "pukhumadirectory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066933557434:android:ebd53eb668257416",
+        "android_client_info": {
+          "package_name": "com.lalthanpuiachhangte.pukhumadirectory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066933557434-i89df99fqfgph2n81i0rrl4500iudbt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lalthanpuiachhangte.pukhumadirectory",
+            "certificate_hash": "67218b5907bda5a174e3087f39c933db1b37ee5c"
+          }
+        },
+        {
+          "client_id": "1066933557434-2gjiv83aanlpgreol2kpnvsg9bo5onhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPu9BgA1Z6KgoY2zKdTppBDcmm3VLTYDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066933557434-2gjiv83aanlpgreol2kpnvsg9bo5onhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
